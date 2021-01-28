@@ -1,0 +1,24 @@
+h1{
+    color: darkblue;
+    text-align: center;
+    font-family: 'Monoton', cursive;
+    font-size: 500%;
+}
+body{
+    background-image: url(moi.jpg);
+}
+ul{
+    font-family: 'Hanalei', cursive;
+    font-size: 400%;
+    list-style: square;
+
+}
+.p1{
+    color: chocolate;
+}
+.p2{
+    color:magenta;
+}
+.p3{
+    color:greenyellow;
+}
